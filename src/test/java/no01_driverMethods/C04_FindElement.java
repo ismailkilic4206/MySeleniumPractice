@@ -1,13 +1,12 @@
-package day01_driverMethods;
+package no01_driverMethods;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class C04_Locators {
+public class C04_FindElement {
     public static void main(String[] args) {
         WebDriver driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(13));

@@ -5,32 +5,153 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00fbb791-28b1-4c6d-826d-ec56400ec795" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/no01_driverMethods/C01_FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no01_driverMethods/C02_FirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no01_driverMethods/C03_NavigateMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no01_driverMethods/C05_FindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no01_driverMethods/C06_isEnabled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no01_driverMethods/C07_TestExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no01_driverMethods/C08_TestExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no02_JUnit/C01_JUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no02_JUnit/C02_TestNotasyonu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no02_JUnit/C03_BeforeClass_AfterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no03_JUnitAssertions/C01_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no03_JUnitAssertions/C02_Assertions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C01_FirstClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C02_FirstTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C03_NavigateMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C04_FindElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/no01_driverMethods/C04_FindElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C05_FindElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C06_isEnabled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C07_TestExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C08_TestExercise.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ZboLlFwyLPjSHs7k7FXDZSZ75x" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="JUnit.C02_Assertions.test1">
+    <configuration name="C01_Assertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.MySeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no03_JUnitAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no03_JUnitAssertions" />
+      <option name="MAIN_CLASS_NAME" value="no03_JUnitAssertions.C01_Assertions" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_Assertions.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.MySeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no03_JUnitAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no03_JUnitAssertions" />
+      <option name="MAIN_CLASS_NAME" value="no03_JUnitAssertions.C01_Assertions" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_Assertions.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.MySeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no03_JUnitAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no03_JUnitAssertions" />
+      <option name="MAIN_CLASS_NAME" value="no03_JUnitAssertions.C02_Assertions" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_BeforeClass_AfterClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.MySeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no02_JUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no02_JUnit" />
+      <option name="MAIN_CLASS_NAME" value="no02_JUnit.C03_BeforeClass_AfterClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_BeforeClass_AfterClass.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.MySeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no02_JUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no02_JUnit" />
+      <option name="MAIN_CLASS_NAME" value="no02_JUnit.C03_BeforeClass_AfterClass" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.C02_Assertions.test1" />
+        <item itemvalue="JUnit.C01_Assertions.test1" />
+        <item itemvalue="JUnit.C01_Assertions" />
+        <item itemvalue="JUnit.C03_BeforeClass_AfterClass" />
+        <item itemvalue="JUnit.C03_BeforeClass_AfterClass.test1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,5 +162,20 @@
       <updated>1702700085700</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

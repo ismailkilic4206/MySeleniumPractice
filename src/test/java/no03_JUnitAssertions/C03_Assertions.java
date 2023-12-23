@@ -12,6 +12,7 @@ public class C03_Assertions {
 
     @Test
     public void test(){
+        //Test Case 9: Search Product
         //1. Launch browser
         ChromeDriver driver = new ChromeDriver();
         driver.manage().window().maximize();

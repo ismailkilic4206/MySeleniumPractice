@@ -12,6 +12,7 @@ public class C02_Assertions {
 
     @Test
     public void test1(){
+        //Test Case 4: Logout User
         //1. Launch browser
         ChromeDriver driver = new ChromeDriver();
         driver.manage().window().maximize();

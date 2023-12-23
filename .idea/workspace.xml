@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00fbb791-28b1-4c6d-826d-ec56400ec795" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/no04_ActionsClass/C02_Mause.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/no03_JUnitAssertions/C02_Assertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/no03_JUnitAssertions/C02_Assertions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/no03_JUnitAssertions/C03_Assertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/no03_JUnitAssertions/C03_Assertions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -43,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C02_Mause.mouseTest1">
+  <component name="RunManager" selected="JUnit.nn.mouseTest1">
     <configuration name="C01_Keyboard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.MySeleniumProject" />
       <extension name="coverage">
@@ -55,22 +59,6 @@
       <option name="PACKAGE_NAME" value="no04_ActionsClass" />
       <option name="MAIN_CLASS_NAME" value="no04_ActionsClass.C01_Keyboard" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_Keyboard.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.MySeleniumProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="no04_ActionsClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="no04_ActionsClass" />
-      <option name="MAIN_CLASS_NAME" value="no04_ActionsClass.C01_Keyboard" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,17 +94,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Assertions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="nn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.MySeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="no03_JUnitAssertions.*" />
+          <option name="PATTERN" value="no04_ActionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="no03_JUnitAssertions" />
-      <option name="MAIN_CLASS_NAME" value="no03_JUnitAssertions.C03_Assertions" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="no04_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="no04_ActionsClass.nn" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nn.mouseTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.MySeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no04_ActionsClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no04_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="no04_ActionsClass.nn" />
+      <option name="METHOD_NAME" value="mouseTest1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.nn.mouseTest1" />
+        <item itemvalue="JUnit.nn" />
         <item itemvalue="JUnit.C02_Mause.mouseTest1" />
         <item itemvalue="JUnit.C02_Mause" />
         <item itemvalue="JUnit.C01_Keyboard" />
-        <item itemvalue="JUnit.C01_Keyboard.test" />
-        <item itemvalue="JUnit.C03_Assertions.test" />
       </list>
     </recent_temporary>
   </component>
